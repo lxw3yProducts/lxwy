@@ -18,5 +18,8 @@ LXWY is a nitro generating application. This tool is only made for educational p
 # 	• Which nitro do i get? Nitro Classic or Nitro Premium?
 ## Both.
 
+# • Why does it keep closing?
+## The reason, is cause you might put in a invalid number or it stopped generating.
+
 # 	If you have any question let me know!
 ## 	
